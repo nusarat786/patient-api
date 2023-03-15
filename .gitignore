@@ -1,0 +1,12 @@
+# Directories
+node_modules/
+dist/
+build/
+coverage/
+
+# Files
+.env
+*.log
+yarn-error.log
+yarn-debug.log*
+.npmrc
